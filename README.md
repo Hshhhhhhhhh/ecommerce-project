@@ -1,4 +1,4 @@
-# 电商购物平台 (E-commerce Shopping Platform)
+# 电商购物平台 
 
 **学号**: 202330450621
 
