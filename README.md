@@ -7,7 +7,7 @@
 **源码地址**: https://github.com/[username]/ecommerce-project
 **技术栈**: Spring Boot 3.2.5 + Vue 3 + MySQL + Redis + Docker
 
-## 🚀 技术栈
+##  技术栈
 
 ### 后端
 - **框架**: Spring Boot 3.2.5
@@ -30,7 +30,7 @@
 - **图表**: Chart.js + Vue-ChartJS
 - **加密**: CryptoJS
 
-## ✨ 功能特性
+## 功能特性
 
 ### 用户模块
 - 用户注册与登录
@@ -67,7 +67,7 @@
 - 商品图片上传
 - 文件存储管理
 
-## 🏗️ 项目结构
+## 项目结构
 
 ```
 ecommerce-project/
@@ -104,7 +104,7 @@ ecommerce-project/
 └── IMAGE_DEPLOYMENT_GUIDE.md # 镜像部署指南
 ```
 
-## 🔧 环境要求
+## 环境要求
 
 - Java 17+
 - Node.js 16+
@@ -112,7 +112,7 @@ ecommerce-project/
 - Redis
 - Docker (可选，用于部署)
 
-## 🚀 本地开发
+## 本地开发
 
 ### 后端启动
 
@@ -123,7 +123,6 @@ ecommerce-project/
    cd backend
    ./mvnw spring-boot:run
    ```
-4. 访问 API 文档：http://localhost:8080/doc.html
 
 ### 前端启动
 
@@ -138,7 +137,7 @@ ecommerce-project/
    ```
 3. 访问前端：http://localhost:5173
 
-## 📦 部署
+##  部署
 
 支持多种部署方式：
 
@@ -159,7 +158,7 @@ ecommerce-project/
 3. 配置服务器环境变量
 4. 启动服务
 
-## 🔐 环境变量配置
+## 环境变量配置
 
 复制 `.env.example` 到 `.env` 并修改相应配置：
 
@@ -185,7 +184,7 @@ JWT_SECRET=your_jwt_secret_key
 APP_FRONTEND_URL=http://localhost:5173
 ```
 
-## 📚 API 文档
+## API 文档
 
 ### 认证接口
 
@@ -315,19 +314,3 @@ APP_FRONTEND_URL=http://localhost:5173
 - **403 Forbidden**: 权限不足
 - **404 Not Found**: 资源不存在
 - **500 Internal Server Error**: 服务器内部错误
-
-## 🧪 测试
-
-后端包含单元测试，运行测试：
-```bash
-cd backend
-./mvnw test
-```
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📄 许可证
-
-本项目仅供学习和研究使用。
