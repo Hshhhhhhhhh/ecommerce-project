@@ -7,7 +7,9 @@
 **项目介绍**: 一个基于 Spring Boot + Vue 3 的全栈电商购物平台，支持用户注册登录、商品浏览、购物车管理、订单处理、支付功能等完整的电商流程。
 
 
-**源码地址**: https://github.com/[username]/ecommerce-project
+**源码地址**: https://github.com/Hshhhhhhhhh/ecommerce-project
+
+**网站地址** ： http://8.140.227.52
 
 **技术栈**: Spring Boot 3.2.5 + Vue 3 + MySQL + Redis + Docker
 
