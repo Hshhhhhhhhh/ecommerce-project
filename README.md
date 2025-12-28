@@ -1,10 +1,14 @@
 # 电商购物平台 (E-commerce Shopping Platform)
 
 **学号**: 202330450621
+
 **姓名**: 黄烁韩
+
 **项目介绍**: 一个基于 Spring Boot + Vue 3 的全栈电商购物平台，支持用户注册登录、商品浏览、购物车管理、订单处理、支付功能等完整的电商流程。
 
+
 **源码地址**: https://github.com/[username]/ecommerce-project
+
 **技术栈**: Spring Boot 3.2.5 + Vue 3 + MySQL + Redis + Docker
 
 ##  技术栈
